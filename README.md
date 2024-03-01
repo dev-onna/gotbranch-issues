@@ -20,6 +20,7 @@
 - add description
 - assign yourself
 - add label 
+
  ***Submit New issue***
 
 ### Create a new branch from the issue to work on the issue
