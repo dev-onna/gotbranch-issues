@@ -27,6 +27,7 @@
 
 ## Run these two commands on vs code
 8. git fetch origin git checkout **newbranchname**
+
 *run these commands together*
 
 This should switch you to new branch
